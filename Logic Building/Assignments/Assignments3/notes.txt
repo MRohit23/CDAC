@@ -1,0 +1,55 @@
+Day 4
+
+
+Morning Session
+
+* Culture fit in companies
+* Create a culture in cdac
+* Develope skills (hard and soft)
+* Support and collab with each other
+* Celebrate small achievments and appreciate other
+* Be respectful
+* Take initiated
+* Proactive , be prepared
+* Dont build fake networking, make genuniite connectiin
+
+Coding
+
+* cant leave if() empty , compilation error
+
+Class & Object
+
+OOPS ( object oriented programming )
+
+* bottom to top execution in java
+
+
+Class
+* Is a collection objects
+* Its a blueprint
+* Will its own property and behaviour
+* property means, data members
+* behavior means functions/methods
+* object all property names should be start will smallcase letter
+
+Method syntax
+* return type is compulsary
+* if it is not returning something, it will be void
+* if main class is public, we will need to name file name as main class name
+ex
+void name() {sop("hello")};
+int name() {return num};
+
+accessing obj
+classname laptopObj = new classname();
+laptopObj.methodname();
+
+* compilation error if method is not there
+
+* local variable is inside main method
+
+* instance  variable are inside other class
+
+* garbage value or default value if varialbe is decraled inside other class
+
+* 
