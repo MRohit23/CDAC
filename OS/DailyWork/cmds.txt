@@ -1,0 +1,23 @@
+List Files and Directories:
+ls: Lists files and directories.
+-l: Long format listing.
+-a: Includes hidden files.
+-h: Human-readable file sizes.
+Example: ls -l displays detailed information, while ls -a shows all files and directories1.
+Display Current Working Directory:
+pwd: Prints the current working directory.
+Create a New Directory:
+mkdir: Creates a new directory.
+Example: mkdir my_directory.
+Remove Files and Directories:
+rm: Removes files and directories.
+Example: rm file.txt or rm -r my_directory.
+Copy Files and Directories:
+cp: Copies files and directories.
+Example: cp source.txt destination.txt.
+Move/Rename Files and Directories:
+mv: Moves or renames files and directories.
+Example: mv old_name.txt new_name.txt.
+Search for Files and Directories:
+find: Searches for files and directories based on criteria.
+Example: find /path/to/search -name "*.txt".
