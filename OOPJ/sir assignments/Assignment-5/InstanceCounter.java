@@ -2,10 +2,10 @@ import java.util.Scanner;
 
 public class InstanceCounter {
 
-    // Static field to keep track of the total number of instances
+    // Static field to track the total number of instances
     private static int totalInstances = 0;
     
-    // Non-static field to store each instance's unique ID
+    // Non-static field for each instance's unique ID
     private int instanceID;
 
     // Static initializer block
@@ -20,7 +20,7 @@ public class InstanceCounter {
 
     // Constructor
     public InstanceCounter() {
-        // No additional logic here since instanceID is set in the initializer block
+        // Constructor logic (if any additional initialization is needed)
     }
 
     // Static method to get the total number of instances created

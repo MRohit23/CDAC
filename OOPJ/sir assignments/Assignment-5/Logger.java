@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Logger {
     
-    // Static variable to hold the single instance of Logger (singleton)
+    // Static field to hold the single instance of Logger (singleton)
     private static Logger instance;
     
     // Non-static field for storing log messages

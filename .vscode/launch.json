@@ -1,0 +1,63 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Employee",
+            "request": "launch",
+            "mainClass": "Employee",
+            "projectName": "CDAC_GITHUB_eec728f4"
+        },
+        {
+            "type": "java",
+            "name": "InstanceCounter",
+            "request": "launch",
+            "mainClass": "InstanceCounter",
+            "projectName": "CDAC_GITHUB_eec728f4"
+        },
+        {
+            "type": "java",
+            "name": "Logger",
+            "request": "launch",
+            "mainClass": "Logger",
+            "projectName": "CDAC_GITHUB_eec728f4"
+        },
+        {
+            "type": "java",
+            "name": "NestedSwitchCalculator",
+            "request": "launch",
+            "mainClass": "LogicBuilding.SelfPractice.NestedSwitchCalculator",
+            "projectName": "CDAC_GITHUB_eec728f4"
+        },
+        {
+            "type": "java",
+            "name": "Prime",
+            "request": "launch",
+            "mainClass": "LogicBuilding.SelfPractice.Prime",
+            "projectName": "CDAC_GITHUB_eec728f4"
+        },
+        {
+            "type": "java",
+            "name": "Q20",
+            "request": "launch",
+            "mainClass": "LogicBuilding.SelfPractice.Q20",
+            "projectName": "CDAC_GITHUB_eec728f4"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "OOPJ.DailyWork.HelloWorld",
+            "projectName": "CDAC_GITHUB_eec728f4"
+        }
+    ]
+}
